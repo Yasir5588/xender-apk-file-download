@@ -7,7 +7,8 @@ Xender changes the way we think about file sharing bringing together ease of use
 Among the unique qualities possessed by Xender is its great cross-platform. The use of Xender in a cross platform environment is not limited to just Android Smartphones, but can be extended to iPhones with iOS and Windows machines as well with great efficiency. The flexibility ensures xender remains a perfect option available in the modern ecosystem where device interchangeability is common.
 
 ## 🔗 Links
-[![DOwnload xender apk file download](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](xenderapk.me/)
+<a href="xenderapk.me/	">xender apk file download</a>
+
 
 
 ## FAQ
